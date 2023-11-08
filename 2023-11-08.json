@@ -1,0 +1,26 @@
+{
+  "name": "William McLaughlin",
+  "age": 29,
+  "address": {
+    "street": "Woluw Loop",
+    "city": "Dekutag",
+    "state": "ID",
+    "zip": "12709"
+  },
+  "contact": {
+    "phone": "(700) 830-9867",
+    "servicePhone": "800741891"
+  },
+  "birthday": "1978-10-04T22:32:32.078Z",
+  "ip": "58.26.125.146",
+  "foo": "bar",
+  "profile": {
+    "about": "Tere toj ibvo awhi er tozjurwid wozo paw coruob pakfisi sadif ifu gorti visju bocnufuv. Wuw otepnok suciw kez edooziciz et ruogibiz sajunekow kohkotu so zo tozopev rifga wepsajo kijfuwu vuhmuhoh kuhca. Tuvmu widkibem ifawi elimemhi eljob siwuhori hespet iguek we abe jof agafopu ikavakad. Gelebo kuj turbe pu wireru su doho wijra fimbeh afebuciho sud fidi.",
+    "bio": "Dupo ve be mitefrim ucovici ukobi suwi ihawim ug manbetbu egipakoj jobfekco luwupsa akoruvlog keg binasor jater. Jamzas kehi mocte penmah ovokazu fog aromo ci muaro wej peh eji fubezi. Onadioca cukhu pujifpuj inavaz emigop ebias mojhom gideb dibasris catip jitsajosa sam kobferka vugubif vi ke."
+  },
+  "apiKey": "c9a2e97a500bbe063ebce2b9c7a81b0254bc56ebba7f5600182596fe945a3ce2",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
