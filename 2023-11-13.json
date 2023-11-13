@@ -1,0 +1,26 @@
+{
+  "name": "Micheal Hall",
+  "age": 20,
+  "address": {
+    "street": "Ruac Point",
+    "city": "Voudekar",
+    "state": "TN",
+    "zip": "54219"
+  },
+  "contact": {
+    "phone": "(964) 644-9773",
+    "servicePhone": "800517772"
+  },
+  "birthday": "2001-08-22T18:51:34.770Z",
+  "ip": "104.81.101.99",
+  "foo": "bar",
+  "profile": {
+    "about": "Zogebaca og lemaj boovi ijiapetov lepideno orabogho unuceig we ciszud kograp meh noas ohik zanawho fazir. Geweko gasipwa lu uhihi awizul hu dimiha sohaf pabaf jejjiek jo hob. Hoz pikmunci fidimbiv wosjolsev sag wiweice ac pisoj ofpigta riw lubigezu le je lonemeh. Vesbo ve gowufo ucdegguk mo evov vuwowuh nar rasij amigomum ibzapwud giz. Fecud erouga wo gukatura ikicinka touw dolimah pa ced mu gukuj agwi cozuh te telim ze. Non loadena hetbe daop rosoeb ge jic watamaf heuz ug jedusu gatu ciduhmi sotkemi basup ug ci. Ovza itesajgol ce owujol fuzeic vagdebde pefiguh witfohat hap dukannis duok dez nos tumkafi iwimu geoj.",
+    "bio": "Ribubtel unuvgi funvipni ewwifas uposot kef ipco ihtuan ow dijus poczeh menzocuki. Jukhagzac gareti lallugo budo saduvi oko zipuzje dakukra ukpoteg umifime ovsar er lovejhet cafmo upofi. Dehzashu do rewsi ge tof ni iwunupoz bavbigce mopi sohpivud zuhpaj otpok si zel lazopo lar emu nage. Su zikubad zovohov nerwap tal ado uh zus ah eme mestac muan vagveew ka nijzapma. Ikufasu rozgu is sakaavi ugu waroror rukrif natca fopcomus keweg fuhbi vajduepu ewatu ongir kev. Zome azeze sah dufe umoozi owuha rabalo tijod bitafli ivujucu ne logzelok waddic koc uza fe neguv eldukjod."
+  },
+  "apiKey": "86cf88b9bf37584788492b81a06bf50da6105f550e191fe2a628d8c314f22bc3",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
