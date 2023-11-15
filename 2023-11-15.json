@@ -1,0 +1,26 @@
+{
+  "name": "Lelia Barnes",
+  "age": 34,
+  "address": {
+    "street": "Muvid Plaza",
+    "city": "Pabutdu",
+    "state": "AL",
+    "zip": "90286"
+  },
+  "contact": {
+    "phone": "(767) 523-9824",
+    "servicePhone": "800465528"
+  },
+  "birthday": "1968-05-07T19:12:29.451Z",
+  "ip": "34.235.91.18",
+  "foo": "bar",
+  "profile": {
+    "about": "Jidpen ojtan bu womobo suvwo ez obu wakkem giblub ojo celubse sa rec hihah gotetar lecer sudjuc tifagu. Kibpojoc cusa bejeg wo linnino fugu egeofma rebefi re wilohuvu mioca tepuc joszeccor fun gat hop jasop. Had gefuvdak jatzagbog adojugu leknacace wuhusufom cad jenuj ovo cohul hat in fus onso.",
+    "bio": "Da rofi zorguza zutwi wimfacec fez nooro causa gaigu vud atfeari ceh ebivfa wu. Takkal te ra sakze huwgeb ik emolepsa jab puthobucu ka zu cowlumi log ciwzeb kez henossi lucito. Ve pi etisuh ci dib wi nuk fufpim fekrakut gedahbe nipvirgu atipumvib kutaviev adohi we mutu."
+  },
+  "apiKey": "90bd4f12ff4f0056981b412495eec84b370548f78ddff6d6e3327fbc780f9c6e",
+  "currency": {
+    "code": "IRR",
+    "name": "Iran Rial"
+  }
+}
