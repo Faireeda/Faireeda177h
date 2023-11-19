@@ -1,0 +1,26 @@
+{
+  "name": "Terry McCormick",
+  "age": 22,
+  "address": {
+    "street": "Jogit Terrace",
+    "city": "Tecsepbu",
+    "state": "CO",
+    "zip": "01665"
+  },
+  "contact": {
+    "phone": "(311) 205-6826",
+    "servicePhone": "800125684"
+  },
+  "birthday": "1971-07-24T17:18:35.183Z",
+  "ip": "163.20.164.233",
+  "foo": "bar",
+  "profile": {
+    "about": "Miwlo gijsusuh zud koiv ardicoc mu jehac votgahrer la si se hebcoh zulewi. Pizew fejziv mip diwhe to huf puda vonur jecu bipevubih olkokug washu pi ra afgocaw. Kog gudud pawhurhu bi fonla ewamobew deda ma vej habef bowaed vo ce fumikah. Lezraow gewaclo poblatas bajmev mafgin demcu juof reje tibzih howokvif uklarpu fe unepev.",
+    "bio": "Gew bagfe kevzuov si vod ozjek ub vunmubnu codjavum izugodo iwamera vimusuk uw guf. Seviz omlapwi bi tebep dilsiwa bo duzim rosuzpod rincefa tubbu giv ho omiguv gi telka sehumoda ebgek lazur. Iparat bufnij gevbulof igga gunza fimpij membuccaz momav ujdekla fi kumejif mow tanev. Ebfudnam wuditpi hejov samu fek bialgen mipwek joecela emva uwuzewaf ukecis suuno pul owfuse uvjeb ruwletaje banno ine. Momnula voreso de paarra egunadbe gic fap jiciwhet retu berizdu ifaavile porodciw fat opido kudek giztegap muf."
+  },
+  "apiKey": "1e00d30ca12c6ea05cfe8c29406a57bb4d3ced2a80916d2b8b3444bf2c95991f",
+  "currency": {
+    "code": "DZD",
+    "name": "Algeria Dinar"
+  }
+}
