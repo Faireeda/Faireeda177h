@@ -1,0 +1,26 @@
+{
+  "name": "Ian McGee",
+  "age": 26,
+  "address": {
+    "street": "Kuvoc Grove",
+    "city": "Aftuiv",
+    "state": "ID",
+    "zip": "57915"
+  },
+  "contact": {
+    "phone": "(785) 767-9040",
+    "servicePhone": "800376129"
+  },
+  "birthday": "1991-11-27T03:47:47.308Z",
+  "ip": "168.56.202.60",
+  "foo": "bar",
+  "profile": {
+    "about": "Peijrit zujiz una muovo ivuir zoncije duwi onuacofig alucejfo bemnuzoh fozkeefi rekijfoz vo obu cihtakkol. Wewsa vato favi ursu opluvo worced maric didu narul zifhokwak ged nakag af li foegatur ummuef awe. Muze sim zen vi hepenes leit deef oruso eca borfavij gol duj. Ikeza gicdudoz aw wom obalaku utufe fuwsokde jartej wunzeik pejigez figmawot ut zihhovjup woc cokis cip. Do kipjon ibuecwi kor zacsodbev pez borituh iw co fivras podara vucleswo seb nepakri fo. Cujuhid adiba ja fegomjem gorirfu laweldu pupujcob mewrebezi ominfaz ret bokoki ze ohe tapafgif. Putirak ijfohif kabwuwla kej lonliluj dafuk dipzoldeb topheama supma mupugi ago sacbiba judpidvu nepeno egicaak.",
+    "bio": "Wihowosi zesdod orotac gijin fobu pulhac celregpuz kev fujfovewu cedumda udho ocasumpo gegzoor. Jatav koj col mehhezhe oj uhsan fe utoezi dohucof bel ewefbi ohuho bejsi fer wijmeso. Ja galcicel adalubu wocer ih mak zunontu do vuromgi he wus efsam uba udsilat ol vi paj jocu. Vescoici kecgid neffiak kola ub ulatu ubla haju meedfel sejocu alnej voje utalove. Wekuefe orama uba wag sadkento jincu oterufju haju bepuh ge su voblok biwbug ramij mami."
+  },
+  "apiKey": "92876fdb78f068c75ff87e351120352186df22c49d88e0f07caf811e87ed2554",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
