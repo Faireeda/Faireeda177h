@@ -1,0 +1,26 @@
+{
+  "name": "Daniel Price",
+  "age": 43,
+  "address": {
+    "street": "Rava Path",
+    "city": "Jeercur",
+    "state": "SC",
+    "zip": "07014"
+  },
+  "contact": {
+    "phone": "(838) 444-7087",
+    "servicePhone": "800896551"
+  },
+  "birthday": "1969-02-27T07:10:56.014Z",
+  "ip": "94.243.177.231",
+  "foo": "bar",
+  "profile": {
+    "about": "Wagriuh va zahokce elilathe irfizoka je sohzadjo afek kinca zaspa bo tancosjil ivapafpun tabhur cap. Uweokawi kul tasgut jidwas aziul vothi hasgeec nagruap wigak huwu ufa paf rid. Ine nuhkob avacdel bajom biramgac olihetos niputib cuowve bipke paveru petkimoku radlor adu cub uco. Bazpi godjuso vutkutsu anpoumi hadli soslasvod tibuzeha dirucwav erawideve uza zookaaf bifughe se. Pobloj wagiwu babowaw fiv juvhudmag lutapgib ni cacagip lidowuef ad zetous va lopku jejmiro meehi ruzna. Biz nalceev gapreofe vuddu ladajaj tucewo roorimi kaz wus olsarlub ima vuffav fad uhugo wevnocoj poep lavi.",
+    "bio": "Dow tazwuli izcoc umonohzud sururbip fawa afete usahabas eblad awpif gi zac urtefpi lav guite uguufu norov tu. Robi hov bi pozuni zuvdu sew uvoij ohaem ibmiv ralfar orgokti homrujo alato wegotde. Pazilanim asa idizin wadaf udjer tazfaz tej kubbute jijmu memaloiw wigijih ajodis poctamu."
+  },
+  "apiKey": "ab6797adb11003372670441c88abe0d6fcaa6156ff9364d86416a233ef6acaa2",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
