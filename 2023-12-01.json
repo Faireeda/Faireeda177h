@@ -1,0 +1,26 @@
+{
+  "name": "Daniel Andrews",
+  "age": 42,
+  "address": {
+    "street": "Fazar Plaza",
+    "city": "Gemizome",
+    "state": "ND",
+    "zip": "48243"
+  },
+  "contact": {
+    "phone": "(704) 341-4459",
+    "servicePhone": "800767771"
+  },
+  "birthday": "1987-10-11T16:47:51.703Z",
+  "ip": "45.125.201.252",
+  "foo": "bar",
+  "profile": {
+    "about": "Tadat mo posedon navlo unidepso cuc hijunetu liehbar ij deso zej puno pi da gapoevo reiworin gew ezhac. Zorer ceavo ci ur mi zipid ruutpun milupob ohewuef dizpowef pi tik tit huki cadiwolu nurdoz rawlev uhe. Pi et kuvsa doemfa sipfel ofi vo nukzure gotuji ca ejhol ram cih taf cintol wadezew. Mafew kupic za pamiwpuz uhe zil vukefoha bagorow mijafimoc fepdovpu fokliv ja rep kela hagev. Kahicorem bellav sanozzu nitidem ehcom piwjiteh wa nuj ho pid dun hifu zugvovcun vir walukehi otiav oki umfizwa. Dubut dezefu ezo sota vope gid cebgidoz micbudvo rahvimoja ala ehbo hufine deh ne wagen.",
+    "bio": "Tek paspir cuce vus wajjo zu narun oha fi gogawruk tempuhu rosteglo cip nucga zijzej das gutus viklal. Me fa redo da nap edfok rutici tetni hon pag buce jefne rofnofec. Roblernet fednoltin itiwes peteazo monrezdu pevjo fani bo eddi zoam wo saodiole ableb tin ciehosup. Farowuv tu josijsih givi ora de ic meguw bais sajahu odu ro jac nafamjon ab wu luvehi. Piksok odeperce guosipo ma pikbo zijfelin dul futilsa joc ru mabgimo vukoc kiinogin ilavo cieh vag ovomo. Ge uromo gi dagigpo leotodun povulpup wusvemo bus vug foranip cumvobu ton oce un tapwu duroktel sivulri fotve."
+  },
+  "apiKey": "51e5d3fcd5ebdfd3f46acb5259387a7f6320b23c9a12f7009edb48eaafad5d38",
+  "currency": {
+    "code": "IMP",
+    "name": "Isle of Man Pound"
+  }
+}
