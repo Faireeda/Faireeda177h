@@ -1,0 +1,26 @@
+{
+  "name": "Jason Clark",
+  "age": 61,
+  "address": {
+    "street": "Kadez Highway",
+    "city": "Cejlico",
+    "state": "PA",
+    "zip": "00289"
+  },
+  "contact": {
+    "phone": "(316) 556-9404",
+    "servicePhone": "800856464"
+  },
+  "birthday": "1966-08-28T08:33:25.087Z",
+  "ip": "201.127.142.107",
+  "foo": "bar",
+  "profile": {
+    "about": "Niwu omi teakbum haw daliek ni kivmibuz jimohoco neh ralwo esinamot ov fuhan tev tev didnul besredag. Wil mopezpa sikar di be nifmowa dada fidfowu osjeg bati le jupi wo. Wajeze aji mineh gegu gi wik zoni ri gu sif kigen iz.",
+    "bio": "Nut koh mag hanalaze azanibe bempased forzop hodzi daceb nid awu jibel ku. Kivu mot letit ratuj kovukre cohcajni jape udakocej cicdakleh tuveh alevora orojojwir bo ji ug zeettid. Dig miado fejog uw cibefofog nizupahi pa ro fi odiun mo mo ehobus umajuk nulkuid buife sejo. Mun omoijnuj neevu pa nel ahicaw nan udjen wew kuj di gavu winilhip haam owaum."
+  },
+  "apiKey": "facee249ba311ce142c753ed1dbc807e314ed1f9ff1979695ebba6094de67e4e",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
