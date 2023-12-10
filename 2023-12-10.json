@@ -1,0 +1,26 @@
+{
+  "name": "Luis Wade",
+  "age": 27,
+  "address": {
+    "street": "Piadu Pike",
+    "city": "Cifile",
+    "state": "ID",
+    "zip": "70187"
+  },
+  "contact": {
+    "phone": "(284) 568-2232",
+    "servicePhone": "800398149"
+  },
+  "birthday": "2006-08-29T01:59:35.887Z",
+  "ip": "56.124.90.249",
+  "foo": "bar",
+  "profile": {
+    "about": "Fecuzef ivtazdor kutov cute gunutewe vob kawno ivukuz gijte wajigu gocgi ve leheg do tecnok milipa. Gohse vo kojo di pozupa gejez akeozite zal pe zud ep lepabige jivook. Jebabo gi milune omejit gabmefi ej gaok ceuzewow bojojek eselofdi kikizzo ru. Iso tof erdom sitagam utirabu zuj mej za uno ca met di leazi daururu mejme.",
+    "bio": "Go pip rukarpum ot or jo boche maazico wosgundev hof nornetun gimuhab ku umadu gu ah kow to. Dide tezbilsir sagtav na kubkupsa hadeb ab zodsoz zasren mo wisgijo pakupuvow mazuweb. Afgiw feniv ujolet zehwushib cukezmiw uzu purebaed rafomawut ikcilal ji oh poegifi co ememat."
+  },
+  "apiKey": "df0f23d850c26a30aec9e6855e64cba6f39f4efc75863142f0fe4d92ed5d50f8",
+  "currency": {
+    "code": "MDL",
+    "name": "Moldova Leu"
+  }
+}
