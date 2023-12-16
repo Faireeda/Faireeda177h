@@ -1,0 +1,26 @@
+{
+  "name": "Marvin Floyd",
+  "age": 21,
+  "address": {
+    "street": "Ogavo Extension",
+    "city": "Ubozwi",
+    "state": "OK",
+    "zip": "26662"
+  },
+  "contact": {
+    "phone": "(237) 726-1146",
+    "servicePhone": "800161978"
+  },
+  "birthday": "1976-10-17T21:39:26.332Z",
+  "ip": "220.103.84.82",
+  "foo": "bar",
+  "profile": {
+    "about": "Ragvabe muzzan ohosorhe zi itol fusji iko epipa up amsamas lusojaug led fizocli jabteg wa. Jowcore orsoci jijlobja ar wu furlekad juthi om kuvec workurse boz tukcoujo jedlezu jacraki segpi gawicen fikentas lidvebvu. Daune vuoccu odizup lis nu up fecimi mubidod kuwabbev tos zodab fa usiubika nel jowem bek copusos pimsip.",
+    "bio": "Lad asipubun lo atobomgos ajvawdok tu buparbo zejpo lozofec ren eb nuolurov ormuh. Hob kebuva cucumo mibu nivubod lu toucuruh abafa mecito befisi pe lilmiwa rulavkol. Rijlahon jo zativ go puutmib enmesbi zerede waan hipa zozu ohcet owduw zun ihahed."
+  },
+  "apiKey": "5e0294c32f6bb3162ec732743ae6181783a07b4cd06803e8d594b0a456b6dfda",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
