@@ -1,0 +1,26 @@
+{
+  "name": "Mollie Dunn",
+  "age": 58,
+  "address": {
+    "street": "Pazo Pass",
+    "city": "Uzsoldeb",
+    "state": "MN",
+    "zip": "33675"
+  },
+  "contact": {
+    "phone": "(345) 673-2336",
+    "servicePhone": "800675829"
+  },
+  "birthday": "1964-06-27T00:21:04.944Z",
+  "ip": "134.100.226.162",
+  "foo": "bar",
+  "profile": {
+    "about": "Rato hidri nuh biv ca ep usago sik dekno fujtigul omereguc dug vuudo otamuz puwpibu. Buhvem jic godzishoc ajuji ahpinda awulorvez nujeh sehmirfi tedo zucfuspun daava costiw pufo deda. Vi rowmo unaese so okobi dizutin asakur lobradtu ezamo oliekza gi gule kujrolka ta toftohej puz doogdo erto.",
+    "bio": "Re jedos dinjuves gowse roh begecus acva ditbunsaw hetced genve gupnos temzergiz apwiw. Fetpebva buso waf veudemi wefepru ihakuel kuv konev picmezvi sat vuzzuhmu juib himsi zultij cad cojlum navke. Adogo merabovac kileki gicze ovawe vugpife rako veegecog sigejowa lu olunu of soahu kutiwili pop."
+  },
+  "apiKey": "54456e2aa1a8afa55f8bba408b3fcc748156ebb607cc1508d94fbe4addf79c56",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
