@@ -1,0 +1,26 @@
+{
+  "name": "Hettie Garrett",
+  "age": 50,
+  "address": {
+    "street": "Guice Mill",
+    "city": "Lewimcin",
+    "state": "FL",
+    "zip": "31186"
+  },
+  "contact": {
+    "phone": "(753) 770-2628",
+    "servicePhone": "800227832"
+  },
+  "birthday": "2003-09-11T13:46:35.031Z",
+  "ip": "224.22.130.54",
+  "foo": "bar",
+  "profile": {
+    "about": "Etvi kihonpa pohri esne zowaz an tilvi ta do okaco kit elu vot gukorof weipikag ag. Oskawa ase nukeg dum ulutuwiz geh tozi suc zelonis ujve bun zaoma morhivum. Dac kesselnud biuttof uv fenwuflu ja onitelu ne bomuruud dovafo apciud ofakaada. Hadwow musdap wi okucerru fuedbah vohu bi go az higa nehem ewugev udsiib un kokhan puvuwed. Wi winig janomijab awa urpak kirdahu ucutori bovezev aze rib ziofuve vuw cuvitbuj labbevjel ribebzu. Votkugri za hehut pubu hicofroc ajgeh paco ci kab wa soibe hauczin dephafli sonozu unaeki niwad sazcet. Mozok hieb tounlof vubop colbomel jemana ce cit gu leswo va zo nib hozocu.",
+    "bio": "Garhir ize gib ez vivtukun pebi ecu kuctamuda noz zoapu ekvar zeteiru ijraswo pagbejuf. Johozko sifpo defog cuwadu mezeku desoku wukofuri nugi ip fenomro ucuk pajrag balweepa kizcamhu we. Haba im etu rutzuvpu bew din onfe coz wotav vavugi fikja fahgi ludog."
+  },
+  "apiKey": "63dc1dc03b3fece38fe1cc094367d114d6fbaa52098aada61d69104b554e47b6",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
