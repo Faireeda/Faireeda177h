@@ -1,0 +1,26 @@
+{
+  "name": "Anthony Garner",
+  "age": 22,
+  "address": {
+    "street": "Kanu Glen",
+    "city": "Ihovwuz",
+    "state": "AR",
+    "zip": "04127"
+  },
+  "contact": {
+    "phone": "(549) 332-7745",
+    "servicePhone": "800583275"
+  },
+  "birthday": "1992-10-11T09:15:06.467Z",
+  "ip": "124.133.225.177",
+  "foo": "bar",
+  "profile": {
+    "about": "Sujzuju pisotwi ejojuhgep nihhufum howsuca vensaled jokla meb ridsoheg fef rapzod rijbef ozeha sa. Kipef izozu lusvoda op solcuk dap nedogaf gohehtil lemkosdef ibjotses givaluh rojuwi. Hedenah bog gefit nuvel kiofe kuhte mal neb tu obsewoj peihbo wi uv kopum laz kolujif zoicige cuwilu. Dutreepu igewainu nocaja kamvac upaneifa favavkak hec eb sulano vi gepab jokokis leiv fufwe. Za hez widi edarobeg eb huk egizaf ri rivcelsis je viz pum gol uwan vebcuv liisi na.",
+    "bio": "Nusi gebipwo dir ro ehagusifa do obe tagkere sihiju utnan duco giri. Ecpecja zewef ral gaw hopohula bif zasaz nifibma tos rusemat ficsi mi. Hiw wuweh mowon fu ficpij teco reguvufa fodce fuj do casuno zu."
+  },
+  "apiKey": "b47f26f87af503c87798f2a1c85f4ec4f8eae92870dd97bd84e16125230a08b4",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
