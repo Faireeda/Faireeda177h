@@ -1,0 +1,26 @@
+{
+  "name": "George Love",
+  "age": 40,
+  "address": {
+    "street": "Padit Boulevard",
+    "city": "Uripema",
+    "state": "ID",
+    "zip": "35016"
+  },
+  "contact": {
+    "phone": "(536) 505-5455",
+    "servicePhone": "800276392"
+  },
+  "birthday": "1993-01-02T03:39:57.710Z",
+  "ip": "205.113.191.151",
+  "foo": "bar",
+  "profile": {
+    "about": "Zazef nas epboca cuwuzuto nasomhi tefbes muhbi etude be ejoniihu os som nut losun. Diltaup jojidu kon akujodij wir nimepohi ne oz vu dufmacnab der vultogim. Awemuhje ohdukug pi rod wajkip bel paw bakatuv una ta te joj ibako ne acdidca ro ave ake. Ug oh re tirsur didolut saw covek ce diwlaser num oseza uw ivi kuwagiha gup niw ra. Ovutuvo dedcidcir odufaz rih anu aco kutulu beoji nolcu puv ar vavzuci vuzim ratkac virca.",
+    "bio": "Gur dubosu ajgo curte noduap watibbet dejmamni up ba bamiofa tozhug sarezva wow fota bo. Misa nemuposo fa hisahemah olazali ijoijela idimurep cubat idse sihih utor dujfe. He zehfujiz hi mifkip wec ipeh povah omnedopa pej reifeufe dozamen otecu dius wujin pelem rob poltira. Gaaga hic haizu movcumed jursu re piadejad top uwfule da jojaca iz gus zehmub gad opuhod tal. Wegokpe wibta jigdu wuc jukasa ugbogheg os pozurice fowusvi notpek ti fagaik gud ah carmij patmut wip. Jobwapo vuup okufuwbep opo guzcieco jiglazgo zulzifke jum adihavki kav du wicirgif pigkubhop gagwaw buhwotat ar. Kivoskec nil nege cafkebwa da hewerega piwibgo detbow idi cufviem janne zaamonab gommowmal nelub dar ehof mus moh."
+  },
+  "apiKey": "f9846914044ecab87951a98f4fedc61072debbed2b808d45588ebe0083025025",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
