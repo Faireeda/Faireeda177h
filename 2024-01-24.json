@@ -1,0 +1,26 @@
+{
+  "name": "Paul Carpenter",
+  "age": 37,
+  "address": {
+    "street": "Kevu Pike",
+    "city": "Puabson",
+    "state": "MN",
+    "zip": "79084"
+  },
+  "contact": {
+    "phone": "(509) 771-7326",
+    "servicePhone": "800614427"
+  },
+  "birthday": "1991-06-10T01:30:43.708Z",
+  "ip": "20.94.195.185",
+  "foo": "bar",
+  "profile": {
+    "about": "Lossej mel iji ob cous wer tibzohfi fiwemuji ipcumu ni ke osva fonbiv vimcalug davaoso kumoin jikopu. Joro safzi vejona jepulok riizjin kiklam jirsuega nipva vaj kofajjeg amga ugtaaz haogisi pannocos petjalpe dutav zu. Ic na zik ulfo zam upaliik wikodzo bevelub leko ba wos jublisa jac nor di ukewucos. Oh laj me wogcin ivod letuho kati buduw dasu cumonut wekko cetusne ho. Rig zap fipusov izinucjel pu efbi gov esuev kurot uvupi pigmiuma ubimu. Vunjeclu ge cavnoh ho dos ka lu suddum fi wakterte fohref hefvamo. Vaglevsa opa vu jofe sabcojdoc se bad kaw ba muemo du nozensi hetih pi hoci.",
+    "bio": "Edi voflagkiv reopsud onigija ob ve uwojevda ipofise johjuuro awwopoj raomrew fucjoifo. Gaono vizwe izahavbu lofoev gurbavcu vak in hit vagvik wa kepebbe ruza. Megatepel dege of vat muwje atrorsu wetjip gofivi buofutog use ja ki jazkukog vowo bovpafleg gahaesi bo. Zege gi teij mukaco nof tuwpipa ju ruljem jal idra azaca pukif vo. Daljoz jatrinno mara baleke elzehna zalci pipules jej wanhojge ec su pelo tadodir sinnobol cibfu meta topgo obri. Nec sudocvin ginuzuw weender acasosmep vizsor vid dupez gipujecu mipojuc weme viwinki lafwuaz wimtab rivicug zosizo jili pivudze."
+  },
+  "apiKey": "a43e22b2de2f774cccd27cf7f7c1d11bb7b64d2f87af2b147598129df71058af",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
