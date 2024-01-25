@@ -1,0 +1,26 @@
+{
+  "name": "Effie Rodriquez",
+  "age": 21,
+  "address": {
+    "street": "Ihuit Extension",
+    "city": "Ludazlu",
+    "state": "CO",
+    "zip": "94113"
+  },
+  "contact": {
+    "phone": "(923) 288-1642",
+    "servicePhone": "800512819"
+  },
+  "birthday": "1975-12-20T17:59:50.108Z",
+  "ip": "2.12.97.247",
+  "foo": "bar",
+  "profile": {
+    "about": "Sab ene hodlilod bezdule amvun cena uk baebwik wucbam hefo ar akahu anu va itse zolkagu kezi. Ivdano rufo ic usgol hespiknug ta keene ta fehah wukokluk dusfofica vihubip hokver. Lagrubjo pozpowuk ikoto hedem ic fepol rim titodbol ceid luvlerudi bepkol ewbi lej. Nipebhu ofe iwuub tomovzit le zigfadi pucet miwwu ko cunsatef taowouz miweh wi em geego.",
+    "bio": "Toji ro mo wog guhoowo gih jacuege escofba bob vabpimik judodad ku mehence usbakni fitucac nig. Gozus saref lu jal poivona rajah ic uciwadzi maj ecpasgeg vepe vudeufo wodohu. Unegefig paava dug nocme cozemjip olkepze hajo si mamipuw ifubolo uc vuudida he."
+  },
+  "apiKey": "fc43a1957ac86e9e62e1c3557de43c8bbc91fec0bc0811578603f3ae30f41d80",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}
