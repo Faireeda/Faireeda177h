@@ -1,0 +1,26 @@
+{
+  "name": "Ryan Wong",
+  "age": 55,
+  "address": {
+    "street": "Nuwpa Point",
+    "city": "Kesofzu",
+    "state": "OH",
+    "zip": "01438"
+  },
+  "contact": {
+    "phone": "(234) 997-2856",
+    "servicePhone": "800963647"
+  },
+  "birthday": "1964-07-13T06:44:26.817Z",
+  "ip": "46.66.89.238",
+  "foo": "bar",
+  "profile": {
+    "about": "Olecor toc ve giij cuusdi nimejvi wumdugges nolgoj ufu janewkoj jeg ucebda levizal ivucilji. Abicog heebo el kas muigbas caplume tiwetec hemce abec wo rifuz seme viladuz. Foso suctere eba da havibgak zoheven ewa er kihbomvib heki pilrab ginlewmi metaf.",
+    "bio": "Gactit nefol ecdo daagomuh gat je fot ga huroga himigin iji digpunu rudi iloal bodiswoh. Cofam iga towmof sil ri tin veh len fivaju zanakufo li pi re zup konov nuf. Disusva cijwi tontortu rivcoowo mejdo buducukuz peubrad niekeg radtef pilaro aheduj vencukuw tifebunu ib no. Ojpev unijeur jehap sidmijpol lim feb acitimzag majgopos da if ufewas rij gowafen vizer zuhsaljor lefeto icpe fo. Tubashuj zo keg us sag ovzare asafe fat selceit ufo ehu sibnur cut. Kubjad iloefet vorojedi disdaaje togonubi uhji tacowba vut azokuk ki goehiba gewuszo veibji. Bu mok wij to ojeece wour deeditol he hessiz jod utje pob liveha puloraf."
+  },
+  "apiKey": "90eace3603845bf4bc6675d45c2d3f6ac80401127d2eed298c00c6e492f4b67e",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}
