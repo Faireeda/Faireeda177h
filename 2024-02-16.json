@@ -1,0 +1,26 @@
+{
+  "name": "Sylvia Olson",
+  "age": 50,
+  "address": {
+    "street": "Lumo Heights",
+    "city": "Rogadiw",
+    "state": "NV",
+    "zip": "30068"
+  },
+  "contact": {
+    "phone": "(369) 650-2435",
+    "servicePhone": "800592684"
+  },
+  "birthday": "1997-01-11T10:32:25.547Z",
+  "ip": "216.156.247.46",
+  "foo": "bar",
+  "profile": {
+    "about": "Ruole hi ro onvip egri mi morhut buvmo owirok ukoci zihak nuhepfig nubwo vu cokuemi sermat tamja fov. Roho fil hemadiipe pivaf nuegapa tepogul ijzov nilsehcet sevub wa toztifga atacpo kirud amgahu. Zidnovsog mojol vacuj dec lohwis umulaowu asiweziv ehati lop gak zim hejekowel dojo megsaksu.",
+    "bio": "Biji kevehofo ba cahsornow imukoara ahe ko gabka fuodedi uggaj jadic azo rokuzo luljagreg. Vipmar re ujebaf bipunfu numa cir tug moduk cuc ece douj gobvej. Naazkop olivi zi eroubke ahorumgag nokpiswag erajo fukjaf nivwahgoz to igmi tuh."
+  },
+  "apiKey": "f47b08b043121ec3f40f7c11e970496ccd8ef8711a2d94c1278f31a795936fe4",
+  "currency": {
+    "code": "TJS",
+    "name": "Tajikistan Somoni"
+  }
+}
