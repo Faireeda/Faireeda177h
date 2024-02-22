@@ -1,0 +1,26 @@
+{
+  "name": "Blanche Price",
+  "age": 42,
+  "address": {
+    "street": "Aska Parkway",
+    "city": "Dirtodhi",
+    "state": "NE",
+    "zip": "08993"
+  },
+  "contact": {
+    "phone": "(939) 901-4527",
+    "servicePhone": "800714637"
+  },
+  "birthday": "2001-10-03T07:04:59.031Z",
+  "ip": "214.181.146.11",
+  "foo": "bar",
+  "profile": {
+    "about": "Geddate ugape koddofot ogliva roamo mocib pusnuhper igo urdaw fo nanik saca vokegvo. Miw lopeape perik coweznif rafew hi iro zaomiru fe umvotul buse timu matdafdu kumwa uthedviz. Vum dip uzuhoffa sow kanohug dezra sehsicefo mermawase ibunuku taronoma zurka fobmicze cehsorsi voilohi wactaoru hibezgim uh uvkegsig.",
+    "bio": "Hilweme ku li cehagaz se sab bamtaban deve jef rasi op paum sik. Wa dud mithida zitum upa rinokeb widruz govuv wif az fel hebsec necuta mafdavur. Ebabimi taif piwelma ovec mibkur di ge waoheag tan hicar su bespeza me jef hogemecek nodulhu jiusupi pos. Gefojopi tawcos amoovakuw zobfu dej jumpilud rihrujop mav cir ditwufbo mub wiwuvkir gu cowo bi rara. Netub ranu re ecofu iblo deok tiwuc guw binum aduhaco kabe jikpezo. Kaspat ofadivow zav lizlipco siihbur kosewde inruma zutwov li rugi ot elelogis susekez."
+  },
+  "apiKey": "54ce321b703fa40a22929c7b7079b53671b4fe0ff1bb4809f5aa0139deb2d270",
+  "currency": {
+    "code": "BHD",
+    "name": "Bahrain Dinar"
+  }
+}
