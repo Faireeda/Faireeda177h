@@ -1,0 +1,26 @@
+{
+  "name": "Jose Anderson",
+  "age": 42,
+  "address": {
+    "street": "Jade Boulevard",
+    "city": "Pazowlos",
+    "state": "NC",
+    "zip": "29150"
+  },
+  "contact": {
+    "phone": "(410) 730-4606",
+    "servicePhone": "800242413"
+  },
+  "birthday": "1965-05-12T16:24:46.088Z",
+  "ip": "198.81.188.211",
+  "foo": "bar",
+  "profile": {
+    "about": "Hezo hazseval pod ri of ed riv asehuzol zuku akoho fibca folvojnu we. Huta roci enuna sefcabci wagzek ulipinob lucevha lu jedakta tuppuz wis logtuzzo wobiur ahetofas tacedeg dezgo ruw ninid. Huhjahez lew ibuhu ififi losbat fo nuh sak amu keg ata hoblori if jevbamir tap aspi ovacapopa.",
+    "bio": "Juuwoce hupvuvopa ro asa osi wokha hodto isagufem wedko gef ca zum pe ewdejava vaguve. Jumce ecovit tabmopsek ara ki vo reukuupa ocudub tatosvet fa ugaidru cuwufazog pucu goav pub nufeziek gacuhunoz ikwo. Bes ju huhbodo tulisraw ka cazmeza zegimecac ali buwiki ilobifu wiaciajo kesug. Joj hure befe veb amo sad ivco so luihizu cidci wi powubbat. Gojeosa du hegine gewamupir siru ori fauh bacciro sohan ha vozu linseh. Juuk ciceba ponusum ape dadkoaza rab bunrap aneez domieb nivavco ta nu ca pojuda iceki. Bonal zuh gawta dedpuham wewurpem len ra te desufogi rinodu disuleju lagreg hevar natus nunavanum culab."
+  },
+  "apiKey": "7180dced96bfede28306c6d5c36587c91a7c6b3e33f50338aac6a3f8fabbf331",
+  "currency": {
+    "code": "KGS",
+    "name": "Kyrgyzstan Som"
+  }
+}
