@@ -1,0 +1,26 @@
+{
+  "name": "Ola Bates",
+  "age": 63,
+  "address": {
+    "street": "Gurta Avenue",
+    "city": "Zakefva",
+    "state": "OK",
+    "zip": "21806"
+  },
+  "contact": {
+    "phone": "(688) 233-3211",
+    "servicePhone": "800472938"
+  },
+  "birthday": "1961-03-05T04:17:53.446Z",
+  "ip": "228.47.190.172",
+  "foo": "bar",
+  "profile": {
+    "about": "Johapma jamgej coramsip jobmac wojreh labuj vitpa idezob avoptah eta ki ajpab pejac utwizgu gaslojwas ub. Fipolasib jo edwa midvifid ve geslen tiwunice bomiva ivmu buwad ahler puane ku adogiw matumgal dazaapo. Kiha zup aba ingevme zu nealtev larowa kihu ahegogik ne pabvufsu rumtadru.",
+    "bio": "Sumubah wecedo wa daut narak fodduub dog zigzotzi zumas cojum nimlad duzni cika hucuaje cil wi. Opicuev fowvomap naf sati riglavol iwe mi kej ce pa ravci uwricjun curhudali pirto. Zook it narut okate cicwu zufenpi pavew tuvuig hebiw bocla bi meefu norebam fimja hiz wu wiw cukezew."
+  },
+  "apiKey": "a78f64bf098955dd2f18c74528f2affbbd5bfbcc47caf63b9a86eaed6009b90f",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
