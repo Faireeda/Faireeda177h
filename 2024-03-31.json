@@ -1,0 +1,26 @@
+{
+  "name": "Edwin Perry",
+  "age": 51,
+  "address": {
+    "street": "Rosfan Drive",
+    "city": "Tewiwlo",
+    "state": "ND",
+    "zip": "30867"
+  },
+  "contact": {
+    "phone": "(817) 643-1791",
+    "servicePhone": "800318986"
+  },
+  "birthday": "1986-11-10T21:54:14.244Z",
+  "ip": "85.87.190.225",
+  "foo": "bar",
+  "profile": {
+    "about": "Gipewtar did ucekaju vicjub hawikle lesoro wizud gevvolle wempe dapdodmer co zuzoma duvzatjob. Inowgi le fepriwduf uhujo obwaw raro lor jocrulni gul zaho vikokev tifari. Boda ug bi belkupul sogov lamjor upewimi ef ofaah pul liwhup souvafa ewturhu haewa zoet ajas.",
+    "bio": "Boz des zezri muclano welci pi livfilgow pufuci tuzeni ju go tamerto pukajguw usawad go ce lujiri. Ep el avigefop havto huh iwa ezuiw ep hufal zuz kubpi zavanoj zohod jepdeob evucivuh galicim. Pe bo hurop jafilimok inomihmo bocsuha kegep cithezi nibu zajpimhaj zaj orijugo ga gurefup ijigame duvjiwhi gazu so."
+  },
+  "apiKey": "be0f90f0b5fd28d88c2b8fec2b251c4f30e4840ab3d0fd0e15a525a5821210ca",
+  "currency": {
+    "code": "PGK",
+    "name": "Papua New Guinea Kina"
+  }
+}
