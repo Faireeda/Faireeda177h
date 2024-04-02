@@ -1,0 +1,26 @@
+{
+  "name": "Wayne Brock",
+  "age": 51,
+  "address": {
+    "street": "Muvho Ridge",
+    "city": "Lukuful",
+    "state": "MA",
+    "zip": "53223"
+  },
+  "contact": {
+    "phone": "(228) 400-9730",
+    "servicePhone": "800847373"
+  },
+  "birthday": "1981-02-09T10:36:22.225Z",
+  "ip": "25.12.253.237",
+  "foo": "bar",
+  "profile": {
+    "about": "Ubneeci fona nab vahdeker zoguhla as hidwac sorpet sa liji neweunu zajdul wos. Tubok bula an huviw seziw wudewud jekjurec gokac tubkidmik weeb za tas fo turwi. Vamunvol zo rozepon luci jigmebsav fol tufwuw topidaho fa jib fid mimucbi ka on rut emelengi.",
+    "bio": "Po ne agtaz civmerlu lu vod pabke awino lej debtuvi fegup jomaib mucarco fodtasnoz niz. Fiwrope bezuuge romifo nuun fomton eka mopepel gut ki agasudi pij nomseged anlapato bug. Dut dozsa sacgab sobobpaj tel feefvez we joswuhfe vowu kaolji of zode zizedas riptopo jueswe jufvuaja jook cobfe."
+  },
+  "apiKey": "6d8c2d170e7deb453474f480d6c4b88942cb2ea94da5294304fbe22442e90e87",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
