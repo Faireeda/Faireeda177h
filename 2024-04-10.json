@@ -1,0 +1,26 @@
+{
+  "name": "Jeremiah Lewis",
+  "age": 38,
+  "address": {
+    "street": "Mumu Street",
+    "city": "Ocudike",
+    "state": "MN",
+    "zip": "06487"
+  },
+  "contact": {
+    "phone": "(769) 830-3468",
+    "servicePhone": "800524117"
+  },
+  "birthday": "1965-12-08T19:37:59.459Z",
+  "ip": "234.170.198.58",
+  "foo": "bar",
+  "profile": {
+    "about": "Festag jovgo tigvejen onevipkib ap ula togwun pudu zat zes ha ecael zonsu zetedi wi. Wascihla vezorub otugaga ujevu ursud fevvevlos woruv zil nal dewas tekut uketaco hu okaki ojikjo obabuk. Wasjakav ge zulwownos disubo obi tif du kos pami pabi afe nuw.",
+    "bio": "Nireag doro jimudojev hohuvev wo ji maitagaz eguhape sule me deh nuradoce. Uz vabfen idegol leraewa kinerewe ginjuuni hi poizka motnaan asimo paeg joskegmuz gedehte lo ecedevgaz apbaw lahwa. Helumsa eszu cefi ge rubaziva befto ihibtuh komuhum lubuwez gebdub hojudun ituojoab. Ehtivan jok izhum cocmig mik culrunzoh udder duziiz aweegodu sah cadu be puler bup fin ci rawpihpin cawe."
+  },
+  "apiKey": "18d344c7e0cb69d45f583e9e7993f82c158a33a0216e282ac0e258eb44c151b6",
+  "currency": {
+    "code": "BAM",
+    "name": "Bosnia and Herzegovina Convertible Marka"
+  }
+}
