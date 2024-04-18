@@ -1,0 +1,26 @@
+{
+  "name": "Ola Montgomery",
+  "age": 43,
+  "address": {
+    "street": "Befwi Boulevard",
+    "city": "Joohefu",
+    "state": "AK",
+    "zip": "20990"
+  },
+  "contact": {
+    "phone": "(547) 358-2958",
+    "servicePhone": "800662898"
+  },
+  "birthday": "1998-08-07T21:31:10.866Z",
+  "ip": "214.237.244.69",
+  "foo": "bar",
+  "profile": {
+    "about": "Tiru cij epa he lurodute ir bidemtu uwimud damgu zuzagse fukru ta fenu ruvpozu. Zen ku il rebsotaz tevpuvteg ozuuksam gobide zumifeju mi lazhi miz sabbigrur ra libagaz morocbik fesiwgor horcudi emget. He sonusof fizaga acu hidasaeka ob sudikmub ihaze neir gihrur luribuil esgak wa ube uwipaca.",
+    "bio": "Ul fe faciz keuko to pawub pecda netec gukpiohu ruscu fis kek iko. Hinreuwe minij fe ocaitoiv ekzu lepuvu isofonmo ufdi nov isucud bu sidwure sujikzu. Kibi ubikafuj bus mo su rese seculfiz orapu ta nijica lu sepko fef rupugarer wucte."
+  },
+  "apiKey": "e14b94dfa1c99f0c59801debee85e53d1c480d790baaf1c32f6c1d6527aa22db",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
